@@ -1,5 +1,7 @@
 <h1 align="center"> Java API with Spring Boot for the meeting-room-booking app</h1>
 
+The goal of this project is to develop a Java API with Spring Boot to be consumed by the meeting-room-booking app.
+
 # Meeting room manager
 
 ## Stack used:
