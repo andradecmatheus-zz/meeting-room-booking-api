@@ -29,7 +29,7 @@ DELETE - /api/v1/rooms/{Id}
 
 
 ### Useful links <br>
-[Teacher's github contains more details](https://github.com/Kamilahsantos/Client-Angular-Live-Coding-Dio) <br>
+[Teacher's github contains more details](https://github.com/Kamilahsantos/Crud-Spring-liveCoding-Dio) <br>
 [Meeting Room Booking App](https://github.com/matheusdrade/meeting-room-booking-angular) <br>
 
 
